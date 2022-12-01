@@ -5,7 +5,7 @@
 # Program State..
 Its Under Developement So There Maybe Errors and Bugs..
 # Do's..................
-!. Replace word "cls" to "clear" at line system("cls") in Linux OS..
+1. Replace word "cls" to "clear" at line system("cls") in Linux OS And Vice Versa..
 2. Go To Admin Part And Add Books And Members To BookStore... Password is 1234
 3. Use Only Options(1,3,6,7 and 8)... Others Are Under Developement..
 
@@ -13,7 +13,7 @@ Its Under Developement So There Maybe Errors and Bugs..
 getline Function Sometimes Doesn't take whole String value or 1st Character of string.
 
 # Side Notes..
-I Have Used Goto Statements And Loop To Never Stop The Program..
+I Have Used Goto Statements And Loops To Never Stop The Program..
 Because You Probably Don't Want It To Stop After Setting UP.
 All The Members And Books.. You Will Lose EveryThing :) ......
 
